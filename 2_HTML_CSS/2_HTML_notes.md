@@ -221,8 +221,7 @@ The inspector gives you the HTML tree, as well as all the CSS selectors and styl
 > 2. Find the image source URL
 > 3. Find the HREF attribute of the link.
 > 
-> Useful CSS declarations [here](http://miriamposner.com/blog/wp-content
-> uploads/2011/11/usefulcss.pdf)
+> Useful CSS declarations [here](http://miriamposner.com/blog/wp-content/uploads/2011/11/usefulcss.pdf)
 
 > #### Extra Challenge:
 > 

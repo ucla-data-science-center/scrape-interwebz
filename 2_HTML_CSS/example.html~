@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <title>Example Website</title>
+    </head>
+
+<body>
+
+<h1 class="title">Example Web Page</h1>
+<p>My first paragraph: Powell Cat from the Powell Cat fan-club on Instagram</p>
+
+<img src="Screenshot_2019-02-26_powell_cat_fanclub_on_Instagram.png" alt="Powell Cat">
+
+<p>Here's a <a href ="https://www.instagram.com/powellcatofficial/?hl=en">link to Instagram</a>.</p>
+
+<h2>Here's a table:</h2>
+
+<table class="tg">
+  <tr>
+    <th>First</th>
+    <th>Second</th>
+    <th>Dead Last</th>
+  </tr>
+  <tr id = "godfathers">
+    <td>Godfather 2</td>
+    <td>Godfather 1</td>
+    <td>Godfather 3</td>
+  </tr>
+  <tr id = "mexican">
+    <td>Cancun, Mission</td>
+    <td>Gordos</td>
+    <td>Taco Bell</td>
+  </tr>
+  <tr id = "cities">
+    <td>Oakland</td>
+    <td>San Francisco</td>
+    <td>Palo Alto</td>
+  </tr>
+  <tr id = "wu-tang">
+    <td>ODB</td>
+    <td>Mission Man</td>
+    <td>Noodles</td>
+  </tr>
+  <tr id = "wire">
+    <td>Wire Season 4</td>
+    <td>Wire Season 5</td>
+    <td>Wire Season 1</td>
+  </tr>
+  <tr id = "comedians">
+    <td>Chris Rock</td>
+    <td>Louis CK</td>
+    <td>Dane Cook</td>
+  </tr>
+  <tr id = "holidays">
+    <td>Halloween</td>
+    <td>Valentine's Day</td>
+    <td>Columbus Day</td>
+  </tr>  
+</table>
+
+</body>
+</html>

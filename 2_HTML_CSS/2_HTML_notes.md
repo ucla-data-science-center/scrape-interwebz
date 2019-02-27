@@ -215,7 +215,7 @@ The inspector gives you the HTML tree, as well as all the CSS selectors and styl
 ---
 > #### Exercise 3
 > 
-> Go to http://rochelleterman.github.io/. Using Google Chrome's inspect element:
+> Go to [example.html](example.html). Using Google Chrome's inspect element:
 > 
 > 1. Change the background color of each of the rows in the table
 > 2. Find the image source URL

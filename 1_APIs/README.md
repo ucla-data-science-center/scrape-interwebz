@@ -1,8 +1,8 @@
 ## APIs and Python Workshop - 2020-0
 
-Credit for lesson:  Rochell Terman
-Instructors:  Leigh Phan & Tim Dennis 
-Etherpad: https://pad.carpentries.org/2021-ucla-apis
+Credit for lesson:  Rochell Terman  
+Instructors:  Leigh Phan & Tim Dennis  
+Etherpad: https://pad.carpentries.org/2021-ucla-apis  
 
 
 ### Schedule 
